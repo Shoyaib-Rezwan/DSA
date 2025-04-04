@@ -1,0 +1,6 @@
+{
+  "C_Cpp.default.compilerPath": "F:\\msys64\\ucrt64\\bin\\gcc.exe",
+  "files.associations": {
+    "iostream": "cpp"
+  }
+}

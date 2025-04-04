@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "vector": "cpp",
+    "tuple": "cpp",
+    "functional": "cpp",
+    "memory_resource": "cpp",
+    "utility": "cpp",
+    "type_traits": "cpp"
+  }
+}
